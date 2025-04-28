@@ -63,7 +63,7 @@ Telegramdan olingan foydalanuvchi ma'lumotlarini bazaga yozadi va tasdiqlash kod
 ```json
 {
   "telegram_id": 123456789,
-  "phone_number": "+998901234567"
+  "phone_number": "+998777777777"
 }
 ```
 
