@@ -102,7 +102,7 @@ Foydalanuvchi ma'lumotlarini olish.
 {
   "id": 1,
   "telegram_id": 123456789,
-  "phone_number": "+998901234567",
+  "phone_number": "+998777777777",
   "is_verified": true
 }
 ```
